@@ -1,0 +1,50 @@
+ <!DOCTYPE html>
+<html>
+ <head>
+      <link rel="stylesheet"  href="index.css"/>
+</head>
+<title>Uk Wild Plant Foraging Api</title>
+<div class="image-container">
+</div>
+<body>
+<div class="title-text">Welcome to the UK Wild Plant Foraging API!</div>
+  <div class="gap-250"></div>
+<p>This is an API that communicates with a database that holds information on wild UK plants</p>
+    <p>that can be foraged. Use this API to retrieve information about the wild UK plants.</p>
+
+<img src="http://1.bp.blogspot.com/-D1qpFoM1FEE/UXkkKUC4wgI/AAAAAAAAD_s/GliRcSf9eOc/s1600/P1040665.JPG" style="max-width:100%; border-radius:50%;float:right;width:30%;height:auto;border:3px solid green; position:relative; top: 50px;">
+<p>When retrieving information about a plant, the API will provide the user with the following information on the plant:</p>
+<ul>
+    <li>The plant's Latin name.</li>
+    <li>One of the plant's common names (some plants have multiple names depending that vary depending on region and dialect, the api provides the plant most "well known" common mame)</li>
+    <li>The plant's edible parts</li>
+    <li>A URL  that links to an image of the Plant's leaves.</li>
+    <li>A URL  that links to an image of the Plant's flowers.</li>
+    <li>A URL  that links to an image of the Plant's stem/bark.</li>
+    <li>A URL  that links to an image of the Plant's fruits/seeds.</li>
+</ul>
+
+
+<h3>Click <a href="https://uk-wild-plant-foraging-api.herokuapp.com/docs#/default">here if you'd like to be redirected to the API</a>, and have used it before.</h3>
+
+
+<h3>Or follow this brief article:.</h3>
+
+
+<p> There are 3 types of endpoints that you can use on this API</p>
+<ul>
+    <li> get-all-plants: returns information on all of the plants that are in this database.</li>
+    <li> get-plant-by-scientific name: accepts a scientific name as a parameter and, if the latin  name is present in the database, returns information on the plant that has that scientific name.</li>
+    <li> get-plant-by-common name: accepts a common name as a parameter and, if the latin  name is present in the database, returns information on the plant that has that common name.</li>
+</ul>
+
+<p> Please note that for the last endpoint, because only one common name per plant is registered in the database, you may not be able to find a plant with a particular common name, if that name does not match the one present in the database.
+In those cases please use the get-by-scientific-name to get information on the plant you are looking for.</p>
+</body>
+
+
+
+</html>
+
+
+
