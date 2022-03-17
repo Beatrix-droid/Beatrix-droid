@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Beatrix-droid Hon smiley_cat
+Hi, I'm Beatrix-droid
 I graduate with a masters in Mathematics that just completed Le Wagon's Data science bootcamp. I am also a self tuaght back end
 web developer with excellent communication and project management skills.
 
