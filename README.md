@@ -5,10 +5,9 @@ web developer with excellent communication and project management skills.
 
 Pronouns: She/Her
 
-  
-    I’m currently learning Google Cloud Platform, SQL, Golang, Flask and Tensorflow
+I’m currently learning Google Cloud Platform, SQL, Golang, Flask and Tensorflow
 
-   All of my projects are available at beatrix-droid.github.io
+All of my projects are available at beatrix-droid.github.io
 
 
 Connect with me:
