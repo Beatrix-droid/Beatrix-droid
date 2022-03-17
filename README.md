@@ -7,7 +7,7 @@ Pronouns: She/Her
 
 I’m currently learning Google Cloud Platform, SQL, Golang, Flask and Tensorflow
 
-All of my projects are available https://beatrix-droid.github.io
+All of my projects are available at: https://beatrix-droid.github.io
 
 
 Connect with me:
