@@ -28,4 +28,8 @@ Languages and Tools:
   
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="flask" width="40" height="40"/></a>
   
+  <a href="https://go.dev/" target="_blank"><img src="https://www.pikpng.com/pngl/m/455-4550459_golang-logo-go-logo-png-clipart.png" alt="go" width="40" height="40"/></a>
+  
+    <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img src="https://cdn.imgbin.com/7/20/10/imgbin-bootstrap-responsive-web-design-web-development-logo-django-others-DVmFqezakGNu0BPT6R3Dk8BTi.jpg" alt="bootstrap" width="40" height="40"/></a>
+  
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
