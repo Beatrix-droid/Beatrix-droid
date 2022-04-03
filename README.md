@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hi, my name is Beatrice, and I'm known on github as Beatrix-droid
-I am originally from Italy but have been living in the Uk for over 5 years.
-I am a graduate with a masters in Mathematics that just completed Le Wagon's Data science bootcamp, and am also a self tuaght back end
+Hi, my name is Beatrice, Beatrix-droid on github.
+I am originally from Italy but have been living in the UK for over 5 years.
+I am a graduate with a masters in Mathematics that has just completed Le Wagon's Data science bootcamp, and am also a self tuaght back end
 web developer.
 
 Pronouns: She/Her
