@@ -31,8 +31,7 @@ Languages and Tools:
   
   
   [Beatrice's GitHub stats] https://github-readme-stats.vercel.app/api?username=Beatrix-droid
-  https://github.com/Beatrix-droid/github-readme-stats
-  
+ 
   
   
   
