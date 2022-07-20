@@ -30,13 +30,11 @@ Languages and Tools:
    <a href="https://uk.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="http://matlab.enge.vt.edu/Images/MATLAB.png" alt="MatLab" width="40" height="40"/> </a>
   
   
-  [Beatrice's GitHub stats] https://github-readme-stats.vercel.app/api?username=Beatrix-droid
+
  
   
   
-  
-  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Beatrix-droid&show_icons=true" />  
   
   
   
