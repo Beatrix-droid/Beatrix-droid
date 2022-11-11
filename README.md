@@ -1,14 +1,16 @@
 ### Hi there 👋
 Hi, my name is Beatrice, Beatrix-droid on github.
 I am originally from Italy but have been living in the UK for over 5 years.
-I am a graduate with a masters in Mathematics that has just completed Le Wagon's Data science bootcamp, and am also a self tuaght back end
-web developer.
+I am a graduate with a masters in Mathematics that also completed Le Wagon's Data science bootcamp, that also self tuaght herslef the basics of back end
+web development. Check out my repos to see what I have donde :)
 
 Pronouns: She/Her
 
 I’m currently learning Google Cloud Platform, SQL, Golang, Flask and Tensorflow
 
 All of my favourite projects are available at: https://beatrix-droid.github.io
+
+
 
 
 Connect with me:
