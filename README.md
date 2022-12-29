@@ -1,6 +1,9 @@
 ### Hi there 👋
 Hi, my name is Beatrice, Beatrix-droid on github.
-I'm currently working for a uk based company in their automation and machine learning department!The tools used are mostly Python, C# and UiPath
+
+I'm currently working for a uk based company in their automation and machine learning department!The tools used are mostly Python, C# and UiPath.
+
+
 I am originally from Italy but have been living in the UK for over 5 years.
 I'm a graduate with a masters in Mathematics that completed Le Wagon's Data science bootcamp and taught herself the basics of back end
 web development with python.
