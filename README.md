@@ -7,7 +7,7 @@ I'm currently working for a uk based company in their automation and machine lea
 I am originally from Italy but have been living in the UK for over 8 years.
 I'm a graduate with a masters in Mathematics that completed Le Wagon's Data science bootcamp and taught herself the basics of back end
 web development with python.
-Currently working as both a Junior Full Stack Developer and an RPA developer at Liberty Global. My professional account is @Beatrix-Droid-Liberty-Global.
+Currently working as both a Junior Full Stack Developer and an RPA developer at Liberty Global. My professional account is [@Beatrix-Droid-Liberty-Global](https://www.github.com/Beatrix-Droid-Liberty-Global).
 
 Most of my the code I write for work is closed source, so unfortunately I cannot showcase any of it here, though I do try to udpate my personal projects at least once a week! So check out my repos to see what I have done (and what I will be doing) :)
 
