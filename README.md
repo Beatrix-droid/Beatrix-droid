@@ -4,18 +4,18 @@ Hi, my name is Beatrice, Beatrix-droid on github.
 I'm currently working for a uk based company in their automation and machine learning department!The tools used are mostly Python, C# and UiPath.
 
 
-I am originally from Italy but have been living in the UK for over 5 years.
+I am originally from Italy but have been living in the UK for over 8 years.
 I'm a graduate with a masters in Mathematics that completed Le Wagon's Data science bootcamp and taught herself the basics of back end
 web development with python.
+Currently working as both a Junior Full Stack Developer and an RPA developer at Liberty Global. My professional account is @Beatrix-Droid-Liberty-Global.
 
-Most of my work production code is closed source, so unfortunately I cannot showcase any of it here; though I do work and udpate my personal projects at least once a week, so check out my repos to see what I have done (and what I will be doing) :)
+Most of my the code I write for work is closed source, so unfortunately I cannot showcase any of it here, though I do try to udpate my personal projects at least once a week! So check out my repos to see what I have done (and what I will be doing) :)
 
 Pronouns: She/Her
 
-The technologies I know best are UiPath , Google Cloud Platform, SQL, C#, Python, Flask, Pandas, Matplotlib and Tensorflow, but I am constantly picking up more!
+The technologies I know best are UiPath, C# with ASP.NET Core, React with Typescript, SQL, Python, Google Cloud Platform, Docker, Flask, Pandas, Matplotlib and Tensorflow, but I am constantly picking up more!
 
 All of my favourite projects are available at: https://beatrix-droid.github.io
-
 
 
 
